@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @filipefernandes-dev
 - 👀 I’m interested in programming and music
-- 🌱 I’m currently learning C# and WebAPI with Dapper
+- 🌱 I’m currently learning C# and .NET Core with Dapper
 
 <!---
 filipefernandes-dev/filipefernandes-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
